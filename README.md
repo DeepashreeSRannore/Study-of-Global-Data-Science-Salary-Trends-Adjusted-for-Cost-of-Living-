@@ -25,7 +25,7 @@ https://www.ijsce.org/wp/content/uploads/papers/v13i2/B36050513223.pdf
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10859447 
 
 4. Ja . (2022). Exploring Career Opportunities in Data Science Ja
-https://ja .sites.apiit.edu.my/files/2022/07/Volume6_Issue3_Paper10_2022.pdf 
+https://ja.sites.apiit.edu.my/files/2022/07/Volume6_Issue3_Paper10_2022.pdf 
 
 5. SSRN. (2022). The Impact of Technology Skills on Data Science Salaries SSRN. 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526707
