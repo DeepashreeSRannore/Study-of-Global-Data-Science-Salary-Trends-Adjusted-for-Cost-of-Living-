@@ -1,0 +1,1 @@
+# Study-of-Global-Data-Science-Salary-Trends-Adjusted-for-Cost-of-Living-
