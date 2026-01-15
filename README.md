@@ -1,4 +1,4 @@
-# Study-of-Global-Data-Science-Salary-Trends-Adjusted-for-Cost-of-Living
+# Study of Global Data Science Salary
 
 **Summary:**  
 The jobs_in_data dataset explores salary trends in the data industry around 10,000 records covering 
